@@ -1,4 +1,4 @@
-This program is an a assembler translate to binary code an a assembly program.
+This program is an a assembler translate to binary code an assembly program.
 
 The files are divided to the preassembler , first pass , second pass, structure, file handlers and utils.
 
